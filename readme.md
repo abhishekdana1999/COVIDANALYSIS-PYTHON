@@ -21,4 +21,8 @@ Each CSV file contains the following fields:
     1. From 22 Jan 2020 
     2. To 01 Apr 2020
 
+# Features
+
+*) Graph Analysis across countries
+*) Forecast for the future
 
