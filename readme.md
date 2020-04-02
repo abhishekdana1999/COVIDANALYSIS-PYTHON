@@ -11,13 +11,12 @@ https://www.kaggle.com/venkateshprabhug/corona-virus-dataset-2019-covid19-latest
 
 # Contents Of Dataset 
 
+Each CSV file contains the following fields:
+
 1. Province/State
 2. Country/Region
 3. Lat - Latitude
 4. Long - Longitude
-5. Last Update - Data point last updated on 
-6. Confirmed - No. of confirmed cases
-7. Deaths - No. of deaths
-8. Recovered - No. of recoveries
+5. Dates Range From 22 Jan 2020 TO 01 Apr 2020
 
 
