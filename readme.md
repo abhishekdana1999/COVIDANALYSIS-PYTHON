@@ -11,17 +11,13 @@ https://www.kaggle.com/venkateshprabhug/corona-virus-dataset-2019-covid19-latest
 
 # Contents Of Dataset 
 
-..*Province/State
-..*Country/Region
-..*Lat - Latitude
-..*Long - Longitude
-...Last Update - Data point last updated on 
-...Confirmed - No. of confirmed cases
-...Deaths - No. of deaths
-...Recovered - No. of recoveries
+1. Province/State
+2. Country/Region
+3. Lat - Latitude
+4. Long - Longitude
+5. Last Update - Data point last updated on 
+6. Confirmed - No. of confirmed cases
+7. Deaths - No. of deaths
+8. Recovered - No. of recoveries
 
 
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
