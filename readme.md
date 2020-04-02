@@ -11,10 +11,10 @@ https://www.kaggle.com/venkateshprabhug/corona-virus-dataset-2019-covid19-latest
 
 # Contents Of Dataset 
 
-...Province/State
-...Country/Region
-...Lat - Latitude
-...Long - Longitude
+..* Province/State
+..* Country/Region
+..* Lat - Latitude
+..* Long - Longitude
 ...Last Update - Data point last updated on 
 ...Confirmed - No. of confirmed cases
 ...Deaths - No. of deaths
