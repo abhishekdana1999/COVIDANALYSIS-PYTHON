@@ -23,6 +23,6 @@ Each CSV file contains the following fields:
 
 # Features
 
-*) Graph Analysis across countries
-*) Forecast for the future
+1. Graph Analysis across countries.
+2. Forecast for the future.
 
