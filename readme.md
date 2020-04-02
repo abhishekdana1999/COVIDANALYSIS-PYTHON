@@ -17,6 +17,8 @@ Each CSV file contains the following fields:
 2. Country/Region
 3. Lat - Latitude
 4. Long - Longitude
-5. Dates Range From 22 Jan 2020 TO 01 Apr 2020
+5. Dates Range 
+    1. From 22 Jan 2020 
+    2. To 01 Apr 2020
 
 
