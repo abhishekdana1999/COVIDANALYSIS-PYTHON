@@ -13,16 +13,43 @@ https://www.kaggle.com/venkateshprabhug/corona-virus-dataset-2019-covid19-latest
 
 Each CSV file contains the following fields:
 
-1. Province/State
-2. Country/Region
-3. Lat - Latitude
-4. Long - Longitude
-5. Dates Range 
-    1. From 22 Jan 2020 
-    2. To 01 Apr 2020
+    1. Province/State
+    2. Country/Region
+    3. Lat - Latitude
+    4. Long - Longitude
+    5. Dates Range 
+        1. From 22 Jan 2020 
+        2. To 01 Apr 2020
 
 # Features
+  
+Feature and interactive graphs: 
 
-1. Graph Analysis across countries.
-2. Forecast for the future.
+    1. Graph Analysis across countries.
+    2. Details Analysis over indian cases.
+    3. Visually interactive graphs.
+    4. Tabular Data Decribe.
+    
+# Packages
+
+Packages used in project:
+
+    1. Numpy
+    2. Pandas
+    3. Plotly
+    4. Datetime
+    5. Matplotlib
+    6. Matplotlib Colors
+    
+# Images
+
+Some images of the project:
+
+   ![Image](https://i.imgur.com/v0RMryM.png)
+   ![Image2](https://i.imgur.com/SRgy9AA.png)
+
+
+
+
+
 
