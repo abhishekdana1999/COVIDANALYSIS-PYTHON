@@ -5,9 +5,7 @@ Chinese health officials have reported tens of thousands of cases of COVID-19 in
 
 On January 30, 2020, the International Health Regulations Emergency Committee of the World Health Organization declared the outbreak a “public health emergency of international concern external icon” (PHEIC). Coronaviruses are a large family of viruses that are common in many different species of animals, including camels, cattle, cats, and bats. Rarely, animal coronaviruses can infect people and then spread between people such as with MERS-CoV, SARS-CoV, and now with this new virus (named SARS-CoV-2).
 
-I would like to thank the authors of the following sources who made this dataset possible.
 
-https://www.kaggle.com/venkateshprabhug/corona-virus-dataset-2019-covid19-latest
 
 # Contents Of Dataset 
 
