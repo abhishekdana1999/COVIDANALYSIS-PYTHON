@@ -18,7 +18,19 @@ Each CSV file contains the following fields:
     5. Dates Range 
         1. From 22 Jan 2020 
         2. To 01 Apr 2020
+India Dataset CSV file contains the following fields: 
 
+    1. State
+    2. Confirmed
+    3. Recoverd
+    4. Deaths
+    5. Active
+    6. Last Updated Time
+    7. State Code
+    8. Delta Confirmed
+    9. Delta Deaths
+    10. Delta Recovered
+    
 # Features
   
 Feature and interactive graphs: 
