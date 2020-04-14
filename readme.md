@@ -18,18 +18,17 @@ Each CSV file contains the following fields:
     5. Dates Range 
         1. From 22 Jan 2020 
         2. To 01 Apr 2020
+
 India Dataset CSV file contains the following fields: 
 
-    1. State
-    2. Confirmed
-    3. Recoverd
-    4. Deaths
-    5. Active
-    6. Last Updated Time
-    7. State Code
-    8. Delta Confirmed
-    9. Delta Deaths
-    10. Delta Recovered
+    1. States	
+    2. Active	
+    3. Confirmed	
+    4. Deaths	
+    5. Recovered 
+    6. Date	
+    7. Latitude	
+    8. Longitude
     
 # Features
   
@@ -50,6 +49,15 @@ Packages used in project:
     4. Datetime
     5. Matplotlib
     6. Matplotlib Colors
+    7. Requets
+    8. Folium
+ 
+ # Code Formatting Packages
+ 
+ Packages Used For Code Formatting
+ 
+    1. lab_black
+    2. Matplotlib
     
 # Images
 
