@@ -1,0 +1,37 @@
+2020-04-11 14:14:48,302 - <ipython-input-1-2e5132ef0945> -  INFO - Execution begins  
+2020-04-11 14:14:49,671 - <ipython-input-1-2e5132ef0945> -  ERROR - Error in extraction of the table from website - https://data.gov.in/major-indicator/covid-19-india-data-source-mohfw 
+Traceback (most recent call last):
+  File "<ipython-input-1-2e5132ef0945>", line 24, in extract_website_data
+    table_list = pd.read_html(url)
+  File "c:\users\abhid\appdata\local\programs\python\python38-32\lib\site-packages\pandas\io\html.py", line 1085, in read_html
+    return _parse(
+  File "c:\users\abhid\appdata\local\programs\python\python38-32\lib\site-packages\pandas\io\html.py", line 891, in _parse
+    parser = _parser_dispatch(flav)
+  File "c:\users\abhid\appdata\local\programs\python\python38-32\lib\site-packages\pandas\io\html.py", line 840, in _parser_dispatch
+    raise ImportError("html5lib not found, please install it")
+ImportError: html5lib not found, please install it
+2020-04-11 14:14:49,717 - <ipython-input-1-2e5132ef0945> -  ERROR - Error occured in storing the extracted data 
+Traceback (most recent call last):
+  File "<ipython-input-1-2e5132ef0945>", line 67, in store_extracted_data
+    corona_table.to_csv(filename, index=False, sep=',', header=header_required, mode='a')
+AttributeError: 'NoneType' object has no attribute 'to_csv'
+2020-04-11 14:14:49,719 - <ipython-input-1-2e5132ef0945> -  INFO - Execution sucessfully completed 
+2020-04-11 14:15:57,996 - <ipython-input-2-f4b0ce3a6cd1> -  INFO - Execution begins  
+2020-04-11 14:15:58,155 - <ipython-input-2-f4b0ce3a6cd1> -  ERROR - Error in extraction of the table from website - https://data.gov.in/major-indicator/covid-19-india-data-source-mohfw 
+Traceback (most recent call last):
+  File "<ipython-input-2-f4b0ce3a6cd1>", line 24, in extract_website_data
+    table_list = pd.read_html(url)
+  File "c:\users\abhid\appdata\local\programs\python\python38-32\lib\site-packages\pandas\io\html.py", line 1085, in read_html
+    return _parse(
+  File "c:\users\abhid\appdata\local\programs\python\python38-32\lib\site-packages\pandas\io\html.py", line 891, in _parse
+    parser = _parser_dispatch(flav)
+  File "c:\users\abhid\appdata\local\programs\python\python38-32\lib\site-packages\pandas\io\html.py", line 840, in _parser_dispatch
+    raise ImportError("html5lib not found, please install it")
+ImportError: html5lib not found, please install it
+2020-04-11 14:15:58,156 - <ipython-input-2-f4b0ce3a6cd1> -  DEBUG - The file already exists. 
+2020-04-11 14:15:58,157 - <ipython-input-2-f4b0ce3a6cd1> -  ERROR - Error occured in storing the extracted data 
+Traceback (most recent call last):
+  File "<ipython-input-2-f4b0ce3a6cd1>", line 67, in store_extracted_data
+    corona_table.to_csv(filename, index=False, sep=',', header=header_required, mode='a')
+AttributeError: 'NoneType' object has no attribute 'to_csv'
+2020-04-11 14:15:58,157 - <ipython-input-2-f4b0ce3a6cd1> -  INFO - Execution sucessfully completed 
